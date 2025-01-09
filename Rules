@@ -1,0 +1,16 @@
+Utilisateur : 
+- Inscription / Login- Accès au infos de la société liée à la candidature
+- Modifier ses infos
+- Recherche sur tous les Job
+- Accès / recherche à tous les offres d'une x societe
+
+Société : 
+- Accès au infos de la société liée à la candidature
+- Ajouter / Modifier Job
+- Ajouter / Modifier / Supprimer societe- Recherche sur sa liste de Job
+
+Job : 
+- Ajouter catégorie / Type poste (CDD-CDI-...) / Disponibilité (Plein temps) / Expérience
+
+Autres:
+- Newsletter
